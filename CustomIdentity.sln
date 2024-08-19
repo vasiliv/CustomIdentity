@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomIdentity", "CustomIdentity\CustomIdentity.csproj", "{C09189DF-D9D8-4FFC-8073-3212C66A285D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C09189DF-D9D8-4FFC-8073-3212C66A285D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C09189DF-D9D8-4FFC-8073-3212C66A285D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C09189DF-D9D8-4FFC-8073-3212C66A285D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C09189DF-D9D8-4FFC-8073-3212C66A285D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {784051D5-3E0D-41E0-A5B6-BE1CC6351A41}
+	EndGlobalSection
+EndGlobal
